@@ -10,8 +10,11 @@ dist-ssr
 .cache
 server/dist
 public/dist
-.turbo
 storybook-static/
 
 apps/app-vite-js
 apps/app-vite-ts
+
+# Editor directories and files
+.idea
+.vscode
